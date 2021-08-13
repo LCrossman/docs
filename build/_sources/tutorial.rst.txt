@@ -1,0 +1,18 @@
+========
+Tutorial
+========
+
+1. Edit config.yaml to include the following:
+
+2. Create genus.txt to include only the following (do not omit the quotes):
+
+"Staphylococcus argenteus"
+
+
+3. Assure all the files are available in the correct folder
+
+4. run:
+
+  snakemake --cores 4   (if 4 cores, 8 threads, are available)
+
+5. Have a hot drink and wait for the results!
