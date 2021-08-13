@@ -3,6 +3,7 @@ Tutorial
 ========
 
 1. Edit config.yaml to include the following:
+
 threads:
       4
 download_genbank:
